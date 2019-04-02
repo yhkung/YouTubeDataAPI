@@ -1,0 +1,135 @@
+{
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/df8PBndxv7RwhNrpxBff4UoClEM\"",
+    "pageInfo": {
+        "totalResults": 3,
+        "resultsPerPage": 10
+    },
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/_zwUfbtM-tuUPh8QlBN9v6qpW6c\"",
+            "id": "UExxYmVsc3paNnB0a0piLXlpc2pBbVE2OE90cWk5QV9leC41NkI0NEY2RDEwNTU3Q0M2",
+            "snippet": {
+                "publishedAt": "2019-03-25T07:29:04.000Z",
+                "channelId": "UCFAdG_A2mydIlYqZS3xBvOg",
+                "title": "Coldplay - Yellow",
+                "description": "Get A Head Full Of Dreams now:\n– iTunes http://cldp.ly/cpitunes\n– Amazon http://smarturl.it/AHFODamazon\n– Google Play http://smarturl.it/AHFODgplay\n– CD (with exclusive holographic stickers) http://smarturl.it/AHFODcd\n– Vinyl (with exclusive holographic stickers) http://smarturl.it/AHFODvinyl\n\n~ Follow Coldplay ~\nWebsite: http://www.coldplay.com\nTwitter: https://twitter.com/coldplay\nFacebook: https://www.facebook.com/coldplay\nInstagram: http://instagram.com/coldplay\nGoogle+: http://instagram.com/coldplay\nTumblr: http://coldplay.tumblr.com/\nVK: https://vk.com/coldplay",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/yKNxeF4KMsY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/yKNxeF4KMsY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/yKNxeF4KMsY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "I-Hsin Kung",
+                "playlistId": "PLqbelszZ6ptkJb-yisjAmQ68Otqi9A_ex",
+                "position": 0,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "yKNxeF4KMsY"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/dKJGvqiPFvNCFmTtAn3gvz0O5jk\"",
+            "id": "UExxYmVsc3paNnB0a0piLXlpc2pBbVE2OE90cWk5QV9leC4yODlGNEE0NkRGMEEzMEQy",
+            "snippet": {
+                "publishedAt": "2019-03-25T07:29:18.000Z",
+                "channelId": "UCFAdG_A2mydIlYqZS3xBvOg",
+                "title": "Snow Patrol - Chasing Cars",
+                "description": "Brand new album WILDNESS is out now: http://SnowPatrol.lnk.to/WildnessID \n\nPlaylists: \nhttps://www.youtube.com/playlist?list=PLzkq0PAKN1Llm4Rbt-5y_CwbNznWW1xM4\nhttps://SnowPatrol.lnk.to/SpotifyCompleteID \n\nhttps://www.youtube.com/watch?v=XqYWcp1JH7Y&t=0s&list=PLzkq0PAKN1Llm4Rbt-5y_CwbNznWW1xM4&index=2\n\nMusic video by Snow Patrol performing Chasing Cars. (C) 2006 Polydor Ltd. (UK)",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/GemKqzILV4w/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/GemKqzILV4w/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/GemKqzILV4w/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/GemKqzILV4w/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/GemKqzILV4w/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "I-Hsin Kung",
+                "playlistId": "PLqbelszZ6ptkJb-yisjAmQ68Otqi9A_ex",
+                "position": 1,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "GemKqzILV4w"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/iMWpCkY-9ndrIEB4cO1cETiSaPw\"",
+            "id": "UExxYmVsc3paNnB0a0piLXlpc2pBbVE2OE90cWk5QV9leC4wMTcyMDhGQUE4NTIzM0Y5",
+            "snippet": {
+                "publishedAt": "2019-03-25T07:29:56.000Z",
+                "channelId": "UCFAdG_A2mydIlYqZS3xBvOg",
+                "title": "Snow Patrol - Open Your Eyes",
+                "description": "Playlists: \nhttps://www.youtube.com/playlist?list=PLzkq0PAKN1Llm4Rbt-5y_CwbNznWW1xM4\nhttps://SnowPatrol.lnk.to/SpotifyCompleteID \n\nhttps://www.youtube.com/watch?v=XqYWcp1JH7Y&t=0s&list=PLzkq0PAKN1Llm4Rbt-5y_CwbNznWW1xM4&index=2\n\n\nMusic video by Snow Patrol performing Open Your Eyes. (C) 2006 Polydor Ltd. (UK)",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/fk1Q9y6VVy0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/fk1Q9y6VVy0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/fk1Q9y6VVy0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/fk1Q9y6VVy0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/fk1Q9y6VVy0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "I-Hsin Kung",
+                "playlistId": "PLqbelszZ6ptkJb-yisjAmQ68Otqi9A_ex",
+                "position": 2,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "fk1Q9y6VVy0"
+                }
+            }
+        }
+    ]
+}

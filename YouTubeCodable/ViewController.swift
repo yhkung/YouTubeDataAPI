@@ -12,9 +12,22 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
+        
+        search(q: "leetcode")
     }
 
-
+    func search(q: String) {
+        APIServices.YouTubeData.search(keyword: q) { result in
+            switch result {
+            case .success(let videos):
+                for video in videos {
+                    print("[\(video.title)]")
+                }
+            case .failure(let error):
+                print("Error: \(error.localizedDescription)")
+            }
+        }
+    }
+    
 }
 
